@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+ 
+}
+
+.box{
+   padding:68px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content:center;
+   text-align: left;
+
+  
+}
+
+.login{
+    font-size: 37px;
+    font-weight: 700;
+    color: #3F3D56;
+}
+
+.email{
+    font-size: 14px;
+    margin-top: 31px;
+    width:  510px;
+}
+
+.password{
+    font-size: 14px;
+    margin-top: 39px;
+    width:  510px;
+}
+
+.box input[type="text"]{
+    width: 515px;
+    height: 47px;
+    padding: 15px 17px;
+    font-size: 14px;
+    margin-top: 6px;
+}
+
+.box input[type="password"]{
+    width: 515px;
+    height: 47px;
+    padding: 15px 17px;
+    font-size: 14px;
+    margin-top: 6px;
+    margin-bottom: 27px;
+}
+
+
+.button{
+  background-color: #3F3D56;
+  width: 514px;
+  height: 47px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #ffffff;
+  margin-top: 31px;
+  margin-bottom: 32px;
+}
+
+.written{
+    font-size: 14px;
+    color: #1DB9E0;
+    text-decoration: none;
+    
+}
+    
+
+.connect{
+    font-size: 14px;
+    margin-right: 199px;
+   
+}
+
+.account{
+    font-size: 14px;
+  
+}
